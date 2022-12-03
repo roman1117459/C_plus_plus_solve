@@ -8,10 +8,7 @@ int main() {
 
     cin >> y;
 
-    int seat;
-    seat = 50 - (y % x);
-
-    cout << seat;
+    cout << (50 - (y % x));
     
     return 0;
 
