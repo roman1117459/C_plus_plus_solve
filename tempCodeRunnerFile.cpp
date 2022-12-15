@@ -1,1 +1,1 @@
-return 0;
+    cout << n * a * b * 2 << endl;
